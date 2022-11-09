@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<Records>
+  <Record>
+    <Row
+      A="1"
+      B="Toy1"
+      C="10"
+      D="0.75"
+      E="This is our product1"
+      F="1"
+      G="3000"
+    />
+  </Record>
+  <Record>
+    <Row
+      A="2"
+      B="Toy2"
+      C="15"
+      D="1.25"
+      E="This is our product2"
+      F="2"
+      G="4500"
+    />
+  </Record>
+  <Record>
+    <Row
+      A="3"
+      B="Toy3"
+      C="25"
+      D="1.77"
+      E="This is our product3"
+      F="3"
+      G="7000"
+    />
+  </Record>
+</Records>

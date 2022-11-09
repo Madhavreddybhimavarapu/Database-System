@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<Records>
+  <Record>
+    <Row
+      A="1"
+      B="Swin"
+      C="This is waterproof and swimming product"
+    />
+  </Record>
+  <Record>
+    <Row
+      A="2"
+      B="Swin"
+      C="This is totally automatic product"
+    />
+  </Record>
+  <Record>
+    <Row
+      A="3"
+      B="Swin"
+      C="This is waterproof and swimming product"
+    />
+  </Record>
+</Records>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<Records>
+  <Record>
+    <Row
+      A="1"
+      B="customer1@gmail.com"
+      C="12345"
+      D="customer-1"
+      E="373-622-7273"
+    />
+  </Record>
+  <Record>
+    <Row
+      A="2"
+      B="customer2@gmail.com"
+      C="cus123"
+      D="customer-2"
+      E="810-679-2766"
+    />
+  </Record>
+  <Record>
+    <Row
+      A="3"
+      B="customer3@gmail.com"
+      C="pass123"
+      D="customer-3"
+      E="423-221-1624"
+    />
+  </Record>
+</Records>
